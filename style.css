@@ -40,3 +40,21 @@ body{
     border-radius: 15px;
     font-size: 14px;
 }
+table{
+    width: 100%;
+    border-spacing: 0px;
+}
+td{
+    border: 0.1px solid #b1b0b0;
+    text-align: center;
+}
+.zagol{
+    background-color: white;
+    font-weight:bold;
+    padding: 1%;
+}
+.yach{
+    background-color: #fcc6d1;
+     text-align:left;
+     padding: 1%;
+}
