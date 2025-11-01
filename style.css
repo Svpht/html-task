@@ -58,3 +58,39 @@ td{
      text-align:left;
      padding: 1%;
 }
+.planes{
+    align-items: center;
+    display: flex;
+    justify-content: space-around;
+}
+.second_plane{
+    width:30%;
+    height:auto;
+    margin-top:1%;
+    margin-bottom: 1%;
+}
+a:link{
+    color: blue;
+    text-decoration: none;
+}
+a:visited{
+    color: gray;
+    text-decoration: none;
+}
+a:hover{
+    color: purple;
+    text-decoration:underline;
+}
+form{
+    display: flex;
+    flex-direction: column;
+    padding-left: 20%;
+    padding-right: 20%;
+}
+label{
+    font-weight: bold;
+    color: white;
+}
+input{
+    margin-bottom: 7%;
+}
